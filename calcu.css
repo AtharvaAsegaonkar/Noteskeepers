@@ -1,0 +1,22 @@
+.container{
+    text-align:center;
+    border-radius: 10px solid black;
+    
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px solid black;
+}
+input{
+    font-size: 40px;
+    font: bold;
+    border-radius: 20px solid  ;
+}
+button{
+    font-size: 20px;
+    background-color: chartreuse;
+    width: 80px;
+    height: 62px;
+    border-radius: 150px solid black;
+}
